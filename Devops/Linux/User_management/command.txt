@@ -1,0 +1,6 @@
+sudo su -to switch to root user
+useradd username /adduser username -to add user
+passwd username -to set password to user
+su -to switch user
+userdel username -to delete user
+ 
