@@ -1,1 +1,15 @@
-basics linus commands
+mkdir dirname
+mkdir dir1 dir2
+mkdir -p dir/subdir/subdir2
+cd / ..
+touch filename
+pwd
+ls / -a/ -l
+rmdir dirname
+rm filename
+echo "content"
+man command
+whoami
+clear
+history
+rm -r dirname

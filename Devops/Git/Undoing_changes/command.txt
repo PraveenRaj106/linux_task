@@ -1,1 +1,7 @@
-undoing changes commands
+git config --edit
+git remote rm origin
+git checkout filename
+git checkout .
+git pull url
+git fetch url
+git reset filename/ --mixed/ --soft/ --hard

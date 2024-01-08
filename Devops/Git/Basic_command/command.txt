@@ -1,1 +1,11 @@
-git commands
+git init
+git config user.name "name"
+git config user.email "email"
+git add filename/ ./ --all/ -A
+git commit -m "message"
+git commit -am "message"
+git remote add origin url
+git push origin master/branch
+git log
+git status
+git clone url
